@@ -4,8 +4,6 @@
 
 This project was built to transform the "wall of awful" into a winnable game, reducing procrastination and making learning more accessible and rewarding.
 
-![CogniPath Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+of+Your+App+Here!)
-*(Suggestion: Replace the placeholder above with an actual screenshot of your dashboard or focus view.)*
 
 ---
 
